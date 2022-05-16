@@ -183,3 +183,4 @@ F= (currency_put(1.22, 1.23, 0.05, 0.10, 0.4, 1) + s2(1.22, 1.23, 0.05, 0.10, 0.
 print(F)  
 print(E-F)                   
 round(E-F,3)
+#TEST
